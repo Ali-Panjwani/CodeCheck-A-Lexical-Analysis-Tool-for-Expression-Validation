@@ -8,6 +8,7 @@ Project Functionalities and Specifications:
 - The project utilizes header files such as "Stack.h", "File_Checker.h", "Lexical_Analysis.h" and "ContextFreeGrammar.h" to perform various tasks related to the analysis of a C++ language programming expression.
 - The "Main.cpp" file coordinates the tasks by performing lexical analysis on the input expression and checking for syntax errors. If the syntax is correct, the expression is parsed, otherwise, the program terminates with a syntax error message.
 
+
 This project is capable of identifying and analyzing various C++ language programming statements, including:
 - Variable declarations, such as "int a;"
 - Variable initializations, such as "int a = 5;" or "int a = 2 + 3;"
@@ -21,6 +22,7 @@ This project is capable of identifying and analyzing various C++ language progra
 - Switch cases statements, such as "switch(a)" or "case 1:" or "break;"
 - cout and cin statements, such as "cout<<"Hello World";"
 - Return statements, such as "return 0" or "return a;"
+
 
 The project utilizes several header files to perform various tasks related to the analysis of a C++ language programming expression:
 - "Stack.h" contains functions related to stack data structure
