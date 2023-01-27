@@ -680,7 +680,7 @@ bool CFG :: FOR()
 		{
 
 			++func_size;
-			if ((DT(input[func_size]) && (VAR(input[func_size + 1])))) ///uhfewiufhwiefih (VAR(input[func_size])
+			if ((DT(input[func_size]) && (VAR(input[func_size + 1])))) ///(VAR(input[func_size])
 			{
 				++func_size;
 				++func_size;
