@@ -3,10 +3,10 @@
 This project is a C++-based program that utilizes lexical analysis to verify the syntax of programming expressions written in the C++ language.
 
 Project Functionalities and Specifications:
-- The project is a C++-based program that uses lexical analysis to verify the syntax of programming expressions written in the C++ language.
-- The project is able to identify and analyze various C++ language programming statements, including variable declarations, initializations, control statements, function declarations and calls, and return statements.
-- The project utilizes header files such as "Stack.h", "File_Checker.h", "Lexical_Analysis.h" and "ContextFreeGrammar.h" to perform various tasks related to the analysis of a C++ language programming expression.
-- The "Main.cpp" file coordinates the tasks by performing lexical analysis on the input expression and checking for syntax errors. If the syntax is correct, the expression is parsed, otherwise, the program terminates with a syntax error message.
+- The project implements a C++-based program that performs lexical analysis to validate the syntactical correctness of C++ programming expressions.
+- The program can effectively recognize and examine various C++ language programming statements, including variable declarations, initializations, control statements, function declarations and calls, and I/O statements.
+- The program employs several header files to carry out various functions related to the analysis of a C++ language programming expression such as functions for stack data structure, bracket validation and reading inputs from files.
+- The program coordinates its functions by conducting lexical analysis on input expressions, and verifying for any syntactical errors. In the event of correct syntax, the expression is parsed, otherwise the program terminates with a syntax error message.
 
 
 This project is capable of identifying and analyzing various C++ language programming statements, including:
